@@ -1,5 +1,6 @@
 # CnC-Mod
 Modified files for Command and Conquer: Tiberian Sun
+ecache03.mix needs to be downloaded from here: https://drive.google.com/folderview?id=0B1kJmRGrxf-Da0JyOHUtRGFYVUk&usp=sharing
 
 ****Expanded Units GDI****
 GDI Sniper
